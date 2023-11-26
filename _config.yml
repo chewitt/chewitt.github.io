@@ -1,15 +1,13 @@
-title: Stellar
+title: Tvheadend.org
 description: >-
-  Just another free, fully responsive site <br /> template built by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a>
-logo: images/logo.svg
+  Tvheadend is the leading TV streaming server for Linux supporting ATSC, DVB-C,<br>
+  DVB-S/S2, DVB-T/T2, ISDB-T, IPTV, SAT>IP and HDHomeRun sources
+logo: images/logo-clear-200px.png
 
 address: 1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA
 phone: (000) 000-0000 x 0000
-email: information@untitled.tld
+email: team@tvheadend.org
 
 socials:
-  Twitter: "#"
-  Facebook: "#"
-  Instagram: "#"
-  GitHub: "#"
-  Dribbble: "#"
+  GitHub: "https://github.com/tvheadend/tvheadend"
+  OpenCollective: "https://opencollective.com/tvheadend"
